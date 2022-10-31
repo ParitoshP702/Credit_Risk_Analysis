@@ -1,5 +1,5 @@
 # Credit_Risk_Analysis
-Analysis of  German Credit risk data using ML algorithms
+Analysis of  German Credit risk data using ML algorithms.
 We have used the german credit data available on the kaggle platform for this analysis.
 First , we divide our borrowers into different groups based on riskiness through k means clustering.In order to find our sufficient number of clusters, we first apply elbow method followed by the sillhouette score method and the well known CH method.
 Then we applied a well known parametric model, logistic regression, to the german credit risk data.
